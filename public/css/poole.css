@@ -354,7 +354,7 @@ tbody tr:nth-child(odd) th {
 
 /* Related posts */
 .related {
-  padding-top: 2rem;
+  padding-top: 1rem;
   padding-bottom: 2rem;
   border-top: 1px solid #eee;
 }
@@ -377,6 +377,12 @@ tbody tr:nth-child(odd) th {
   color: inherit;
 }
 
+/* Comments */
+.comments {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  border-top: 1px solid #eee;
+}
 
 /*
  * Pagination
