@@ -1,25 +1,26 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            Alanyeh's Blog
+tagline:          '改變。此刻'
+description:      '小強的技術分享部落格：）'
+url:              https://github.com/alanyeh20001
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Alan Yeh'
+  email:          alanyeh200001@gmail.com
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
+github:           https://github.com/alanyeh20001
+flickr:           https://www.flickr.com/photos/114787703@N02/
+pixnet:           http://alanyeh20001.pixnet.net/blog
 
-github:
-  repo:           https://github.com/poole/hyde
+# Plugins
+plugins:          [jekyll-paginate]
