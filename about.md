@@ -3,28 +3,23 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+大家好，我是小強：）
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+### 關於部落格
 
-There are currently two themes built on Poole:
+這裡主要作為技術部落格，紀錄 Coding 過程中學到的新東西、遇到的困難等等。歡迎大家一起討論！
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+之前的技術部落格可以參考：
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+* [改變_此刻 Blogspot](http://alanyeh20001.blogspot.tw/)
+* [Medium](https://medium.com/me/stories/public)
 
-## Setup
+### 關於我
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+* 畢業於臺大土木所結構組
+* 喜歡攝影 (大家可以來看看我的 [Flickr](https://www.flickr.com/photos/114787703@N02/) 啊)
+* 喜歡烘焙 (好久好久才做一次哈哈)
+* 喜歡旅行
+* 主要寫 Ruby & JavaScript
+* 以 Ruby on Rails 框架進行網站開發已有 1.5 年的經驗
+* Vue.js 也略懂
