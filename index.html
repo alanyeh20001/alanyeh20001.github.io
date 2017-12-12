@@ -11,10 +11,10 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
+    {% if post.abstract %}
+      <p>{{ post.abstract }}</p>
+    {% endif %}
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
   </div>
   {% endfor %}
 </div>
