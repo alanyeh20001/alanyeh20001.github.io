@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome DevTools 紀錄 (一)
-abstract: 介紹 ".cls, designMode, 隱藏 element" 工具的用法
+abstract: 介紹「.cls, designMode, 隱藏 element」工具的用法
 comments: true
 ---
 
