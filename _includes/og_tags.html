@@ -1,0 +1,10 @@
+{% if page.title == "Home" %}
+  <meta name="og:title" content="{{ site.title }} &middot; {{ site.tagline }}">
+  <meta name="og:type" content="website">
+{% else %}
+  <meta name="og:title" content="{{ page.title }} &middot; {{ site.title }}">
+  <meta name="og:type" content="article">
+{% endif %}
+
+<meta name="og:url" content="{{ site.url }}{{ page.url }}">
+<meta name="og:image" content="{{ site.url }}/public/site-logo.jpg">

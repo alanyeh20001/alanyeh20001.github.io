@@ -12,6 +12,11 @@ description:      '小強的技術分享部落格：）'
 url:              https://alanyeh20001.github.io
 baseurl:          /
 
+# Meta
+meta:
+  description: "A blog shares website techniques, such as Ruby on Rails, JavaScript and so on."
+
+
 author:
   name:           'Alan Yeh'
   email:          alanyeh200001@gmail.com
