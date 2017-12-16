@@ -83,6 +83,10 @@ html {
   font-size: 2.9rem;
 }
 
+.sidebar-about h1 a {
+  text-decoration: none;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;
@@ -106,6 +110,25 @@ a.sidebar-nav-item:focus {
   list-style-type: none;
   display: inline;
   margin-right: 0.5rem;
+}
+
+.sidebar-nav-icons {
+  display: block;
+  line-height: 1.75;
+}
+
+.sidebar-nav-icons ul {
+  margin-top: 1rem;
+  padding: 0;
+}
+.sidebar-nav-icons li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 0.5rem;
+}
+
+.sidebar-nav-icons a {
+  text-decoration: none;
 }
 
 /* Sidebar copyright*/
