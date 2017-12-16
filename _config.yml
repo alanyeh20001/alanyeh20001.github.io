@@ -28,4 +28,6 @@ flickr:           https://www.flickr.com/photos/114787703@N02/
 pixnet:           http://alanyeh20001.pixnet.net/blog
 
 # Plugins
-plugins:          [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
