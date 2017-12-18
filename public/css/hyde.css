@@ -124,11 +124,15 @@ a.sidebar-nav-item:focus {
 .sidebar-nav-icons li {
   list-style-type: none;
   display: inline;
-  margin-right: 0.5rem;
+  margin-right: 0.4rem;
 }
 
 .sidebar-nav-icons a {
   text-decoration: none;
+}
+
+.sidebar-nav-icons .fb-share-button {
+  display: inline;
 }
 
 /* Sidebar copyright*/
